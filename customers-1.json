@@ -1,0 +1,93 @@
+[
+  {
+    "customer_id": 101,
+    "first_name": "Ravi",
+    "last_name": "Yadav",
+    "email": "user101@example.com",
+    "phone": "9887654321",
+    "city": "Delhi",
+    "registration_date": "2023-09-14"
+  },
+  {
+    "customer_id": 102,
+    "first_name": "Nina",
+    "last_name": "Joshi",
+    "email": "user102@example.com",
+    "phone": "9876543210",
+    "city": "Mumbai",
+    "registration_date": "2024-01-21"
+  },
+  {
+    "customer_id": 103,
+    "first_name": "Sonal",
+    "last_name": "Sharma",
+    "email": "user103@example.com",
+    "phone": "9865432109",
+    "city": "Bangalore",
+    "registration_date": "2023-07-10"
+  },
+  {
+    "customer_id": 104,
+    "first_name": "Karan",
+    "last_name": "Patel",
+    "email": "user104@example.com",
+    "phone": "9854321098",
+    "city": "Hyderabad",
+    "registration_date": "2024-02-05"
+  },
+  {
+    "customer_id": 105,
+    "first_name": "Riya",
+    "last_name": "Singh",
+    "email": "user105@example.com",
+    "phone": "9843210987",
+    "city": "Chennai",
+    "registration_date": "2023-06-28"
+  },
+  {
+    "customer_id": 106,
+    "first_name": "Ajay",
+    "last_name": "Mishra",
+    "email": "user106@example.com",
+    "phone": "9832109876",
+    "city": "Pune",
+    "registration_date": "2024-03-10"
+  },
+  {
+    "customer_id": 107,
+    "first_name": "Priya",
+    "last_name": "Kapoor",
+    "email": "user107@example.com",
+    "phone": "9821098765",
+    "city": "Ahmedabad",
+    "registration_date": "2023-05-12"
+  },
+  {
+    "customer_id": 108,
+    "first_name": "Rahul",
+    "last_name": "Verma",
+    "email": "user108@example.com",
+    "phone": "9810987654",
+    "city": "Kolkata",
+    "registration_date": "2023-08-19"
+  },
+  {
+    "customer_id": 109,
+    "first_name": "Pooja",
+    "last_name": "Mehta",
+    "email": "user109@example.com",
+    "phone": "9809876543",
+    "city": "Delhi",
+    "registration_date": "2024-04-01"
+  },
+  {
+    "customer_id": 110,
+    "first_name": "Deepak",
+    "last_name": "Nair",
+    "email": "user110@example.com",
+    "phone": "9798765432",
+    "city": "Mumbai",
+    "registration_date": "2023-10-14"
+  }
+
+]
