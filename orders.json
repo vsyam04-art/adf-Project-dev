@@ -4,7 +4,7 @@
     "CustomerID": "C001",
     "OrderDate": "2024-05-01T12:00:00Z",
     "UpdatedDate": "2024-05-05T12:00:00Z",
-    "Amount": 250.5
+    "Amount": 150.5
   },
   {
     "OrderID": 1002,
@@ -55,11 +55,11 @@
     "UpdatedDate": "2024-05-09T10:00:00Z",
     "Amount": 230.0
   },
-    {
-    "OrderID": 1008,
+   {
+    "OrderID": 1009,
     "CustomerID": "C003",
     "OrderDate": "2024-05-03T15:00:00Z",
     "UpdatedDate": "2025-05-09T10:00:00Z",
-    "Amount": 280.0
+    "Amount": 285.0
   }
 ]
